@@ -1,5 +1,6 @@
-# pokeemerald-expansion
+### Start Menu Clock
 
+<<<<<<< HEAD
 pokeemerald-expansion is ***a romhack base*** based off pret's [pokeemerald](https://github.com/pret/pokeemerald) decompilation project. ***It is NOT a playable romhack,*** but it has multiple features available to romhackers so that they can create their own games, so it's not meant to be played on its own.
 
 ## Should I use this or vanilla pokeemerald for my hack?
@@ -198,3 +199,10 @@ Also, *please follow the Pull Request template and feel free to discuss how the 
     - Fixed overworld snow effect.
 
 There are some mechanics, moves and abilities that are missing and being developed. Check [the project's milestones](https://github.com/rh-hideout/pokeemerald-expansion/milestones) and our [issues page](https://github.com/rh-hideout/pokeemerald-expansion/issues) to see which ones.
+=======
+_Written for pokeemerald-expansion 1.7.X_
+
+Adds a clock that tracks the in-game time to the start menu, as seen below. There are comments in the branch if you're interested in full day names vs shortened day names.
+
+![Start Menu Clock](https://github.com/Pawkkie/pokeemerald-expansion/assets/61265402/2cf0306f-e367-4208-ba41-1fdcf26aab32)
+>>>>>>> 2a8042fc8e08ca1e384028a15c2a857702f48cc5
